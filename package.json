@@ -9,7 +9,7 @@
     "preview": "vite preview"
     "deploy": "gh-pages -d build" 
   },
-  "homepage": 
+  "homepage": "https://krockdove.github.io/checklist/"
   "dependencies": {
     "@vitejs/plugin-react": "latest",
     "lucide-react": "^0.468.0",
