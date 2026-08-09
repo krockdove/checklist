@@ -12,8 +12,8 @@ export default defineConfig({
       registerType: 'autoUpdate',
 
       manifest: {
-        name: '집필 공정 관리',
-        short_name: '집필 체크리스트',
+        name: '체크리스트',
+        short_name: '체크리스트',
         description: '소설 집필 공정을 관리하는 체크리스트',
         theme_color: '#f7f3eb',
         background_color: '#f7f3eb',
